@@ -1,0 +1,10 @@
+## .gitignore for this proj
+
+# for idea
+.idea/
+
+# for iml
+*.iml
+
+# for other
+out/
