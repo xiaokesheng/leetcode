@@ -1,6 +1,7 @@
 package com.zxb.algorithm;
 
 import com.zxb.algorithm.Util.PUtil;
+import com.zxb.algorithm.twenty.TwoSumFirst;
 
 /**
  * Created by zxb on 2016/9/24.
